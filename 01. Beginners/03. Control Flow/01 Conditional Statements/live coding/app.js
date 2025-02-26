@@ -14,7 +14,7 @@ if (a > b) {
 }
 
 // ------------------------
-
+let time = 12;
 if (time < 10) {
   greeting = "Good morning";
 } else if (time < 20) {
@@ -22,6 +22,7 @@ if (time < 10) {
 } else {
   greeting = "Good evening";
 }
+console.log(greeting)
 // ------------------------
 
 // ------------------------
